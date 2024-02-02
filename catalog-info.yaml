@@ -9,4 +9,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: user:Stollie
+  owner: user:guest
