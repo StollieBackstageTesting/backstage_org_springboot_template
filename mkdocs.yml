@@ -1,0 +1,8 @@
+site_name: "backstage_springboot_template_test"
+site_description: "backstage_springboot_template_test"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
