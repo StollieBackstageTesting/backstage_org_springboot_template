@@ -1,4 +1,4 @@
-package com.example.backstage.springboot_template.test;
+package com.example.backstage_springboot_template_test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
